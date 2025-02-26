@@ -1,0 +1,23 @@
+accent: "#68246D"  # accent-purple
+background: "#141414"  # dark0-hard from Durhan Gruvbox
+foreground: "#FFFFFF"  # light0
+details: darker
+terminal_colors:
+  bright:
+    black: "#928374"   # gray
+    blue: "#87c3ff"    # bright-blue
+    cyan: "#81D2CE"    # bright-aqua
+    green: "#A3BE8C"   # bright-green
+    magenta: "#68246D" # bright-purple - using accent
+    red: "#FB4834"     # bright-red
+    white: "#FFFFFF"   # light0
+    yellow: "#EBCB8B"  # bright-yellow
+  normal:
+    black: "#1a1a1a"   # dark0
+    blue: "#87c3ff"    # neutral-blue
+    cyan: "#81D2CE"    # neutral-aqua
+    green: "#A3BE8C"   # neutral-green
+    magenta: "#68246D" # neutral-purple - using accent
+    red: "#FB4834"     # neutral-red
+    white: "#CCCCCC"   # light1
+    yellow: "#EBCB8B"  # neutral-yellow
